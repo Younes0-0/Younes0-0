@@ -16,8 +16,6 @@
 
 ¡Conéctate conmigo en las redes sociales!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YounesDemraoui-blue)](https://www.linkedin.com/in/younesdemraoui/)
-[![Twitter](https://img.shields.io/badge/Twitter-YounesDev-blue)](https://twitter.com/YounesDev)
 [![Instagram](https://img.shields.io/badge/Instagram-younes0__0-orange)](https://www.instagram.com/younes0_0/)
 
 ¡Gracias por visitar mi perfil!
